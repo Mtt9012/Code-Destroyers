@@ -1,5 +1,5 @@
 # Code-Destroyers 
---- GAME IS IN THE EARLY DEVELOPMENT STAGE !!! ---
+--- GAME IS IN THE EARLY DEVELOPMENT STAGE !!! --- <br>
 Show your logical thinking skill in this simple console game based on real-life board game.
 Your job is to crack a code containing various numbers.
 -------------------------------------------------------------------------------------------
